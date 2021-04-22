@@ -150,7 +150,7 @@
     "plugins.manage.label_homebridge_upgraded": "Homebridge 已升级",
     "plugins.manage.label_install": "安装",
     "plugins.manage.label_installed": "已安装",
-    "plugins.manage.label_manual_update_required": 需要手动更新",
+    "plugins.manage.label_manual_update_required": "需要手动更新",
     "plugins.manage.label_online_updates_not_supported_on_windows": "在线更新仅适用于 Windows。 您将会需要手动暂停服务后更新 Homebridge Config UI X。",
     "plugins.manage.label_uninstall": "卸载",
     "plugins.manage.label_uninstalled": "已移除",
